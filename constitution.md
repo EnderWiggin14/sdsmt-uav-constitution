@@ -21,20 +21,19 @@ Team.
 The purpose of the SDSM&T Unmanned Aerial Vehicle Team shall be the
 following:
 
-1. To compete in the International Aerial Robotics Competition and win.
+1. To compete in the International Aerial Robotics Competition and win.//Can't regulate winning. Also we should include research in general for the furthering of unmanned techonology.
 
 2. To develop new technologies and novel ways of integrating Commercial
-   Off The Shelf (COTS) hardware with existing software to facilitate (1)
+   Off The Shelf (COTS) hardware with existing software and hardware to facilitate (1)
    
-3. To serve as a platform for personal development of skills for under-graduate
-   and a vehicle for research for graduate students.
+3. To serve as a platform for personal development of skills and vehicle for research for undergraduate and graduate students.//Research shall not be restricted graduate students
 
 4. To give students an actual metric for success with an achievable goal to develop
    the critical skills of meeting deadlines, budgets, operating constraints, operating
-   in a team environment, and develop leadership and self-reliance.
+   in a team environment, and develop leadership and self-reliance.//what is this supposed metric and this is in concept covered in (3)
 
-5. To lead by example in competition and grow in prestige by performance in the 
-   SDSM&T and UAV community
+5. To lead by example through competition and grow in prestige by performance in the 
+   SDSM&T and UAV communities.
 
 ## ARTICLE III. MEMBERSHIP
 
@@ -49,7 +48,7 @@ when necessary.
    may be rescinded due to university disciplinary standing
    or at the written request of one or more of a member’s professors.
    Additionally, non-officer membership and meeting attendance privilege may be
-   revoked by 2/3 majority vote of all active members for any reason.
+   revoked by 2/3 majority vote of all active members for any reason.//This starts as "meeting attendance privilege" and ends with membership revocation? Must be reworded
 
 2. "Active membership" shall be granted automatically at the start of the 6th 
    attended meeting unless the officer core wishes to put membership to a vote at
@@ -67,7 +66,7 @@ when necessary.
 4. Members are considered to be in good standing if they attend at
    least 3/4 of the scheduled meetings per semester.  Only members in good 
    standing can vote. This requirement should only be observed
-   for active membership.
+   for active membership.//should be merged with (2) to avoid confusion. Which applies first?
 
 5. Nondiscrimination: This organization does not discriminate in membership 
    selection, officer election or other appointments, or practices of 
@@ -81,7 +80,7 @@ The SDSM&T Aerial Vehicle Team believes that the work put in by the
 students is sufficient and will not impose any additional dues or fees
 upon its members.  All funding will be sought through other means such
 as research grants, school funding, CAMP funding, Student Association
-funding, corporate sponsorship, etc.
+funding, corporate sponsorship, etc.//This statement must be made with full understanding that SOAP will always ask if we ask students to pay dues. If we want to make this statement, then we should also include some statement about having no wish to be a "financial burden to students after already paying large sums of money to attend college and be eligible to attend"
 
 ### Qualifications
 
@@ -89,7 +88,7 @@ There are no basic qualifications for entry into the team other than
 a time commitment and intangibles such as drive, ingenuity, and a desire
 to excel.  However, the UAV team's mission and competition level is such
 that students below a Junior standing will have trouble contributing
-effectively to the team.
+effectively to the team.//probably should include a statement about having interest in math and programming unless we intend to integrate mechanical or electrical development at any point into the team
 
 ### Voting Rights of Members
 
@@ -132,12 +131,12 @@ officer core determines unanimously that they want a different requirement.
    highest-ranking officer will cast the deciding vote.
 
 3. The term of office for all officers shall be one year beginning on 
-   October 1 and ending on September 30.
+   October 1 and ending on September 30. //With this time span the team will be left presidentless for the first month-and-a-half of the next year if the president happens to be a senior. We cannot expect or even allow a non-student to be president for even that period of time. This was part of the reason for the election of the president the year before and it prevents new members from voting for somebody they feel is "cool" as opposed to actually fit for the job.
 
 4. Nominations for President and Vice President shall take place
    during the last regularly scheduled meeting of August. Nominations
    for all other officers shall take place during the last regularly
-   scheduled meeting of September.
+   scheduled meeting of September. //Should be moved a bit earlier, almost halfway through the semester at this point
 
 5. The current President of the SDSM&T Unmanned Aerial Vehicle Team
    shall count votes.
@@ -160,13 +159,13 @@ No Confidence vote by remaining officers.
      24 hours prior to scheduled meeting time
   e. Holds ownership of all logins for group accounts, keys for
      all meeting and work areas, and maintains standing necessary
-     for all.
+     for all.// is this "standing" in reference to the concept of "good standing"
   f. Ultimately responsible for maintaining and broadcasting development
      timeline for competition.
      
 2. Vice President - Responsibilities are as follows
   a. Attends CAMP meeting and if unable ensures a representative is
-     present for team
+     present for team //Questionably use(ful/less) meetings
   b. Takes attendance at meetings and maintains standings of all
      members/participants
   c. Records minutes and broadcasts to all team members/interested
@@ -174,8 +173,8 @@ No Confidence vote by remaining officers.
   d. Secondary for Presidents responsibilities if necessary
   e. Responsible for content management repository and standardization
      of development environment, software version, hardware, etc.
-     when deemed necessary
-  f. Reports weekly on responsibilities
+     when deemed necessary //who deems necessary?
+  f. Reports weekly on responsibilities //which and whose responsibilities
   
 3. Treasurer - Responsibilities are as follows
   a. Will balance and detail team budget and report weekly ensuring that 
@@ -184,7 +183,7 @@ No Confidence vote by remaining officers.
      financial position at the end of each semester and when demanded from 
      the team’s supporters.  
   c. Along with any other two officers, will approve all orders for
-     materials totaling more than $50.
+     materials totaling more than $50. // if this is for over $50, then what about less than $50
   d. Responsible for processing all funding requests
   e. Responsible for processing all reimbursement requests
 
@@ -199,6 +198,7 @@ No Confidence vote by remaining officers.
   e. Will interface with Student Association when necessary to provide SA with
      all required reports, documents, information, etc.
   f. Reports weekly on PR status
+  g. //Information should be included as to what "PR activities" that we, the UAV team, have been granted "permission" to take part in as to not impose on "other teams"
 
 ### Impeachment - Vote of No Confidence
 
@@ -263,7 +263,7 @@ for meetings is essential to their effectiveness and overall team performance.
    president at the beginning of the semester
 
 2. Special meetings may be called by the President, Vice President, or quorum
-   of elected officers as need dictates
+   of elected officers as need dictates //are these to included in the 3/4 of meetings as "special meetings" cannot be expected to attended if made during other times of the week when people may have plans already made
 
 3. A quorum of membership for voting purposes shall be reached when
    2/3 of the general members are voting.
